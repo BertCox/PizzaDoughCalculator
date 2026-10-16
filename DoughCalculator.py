@@ -241,7 +241,7 @@ st.subheader("📋 Method")
 st.markdown(
     f"""
 1. **Dissolve the yeast.** Weigh **{water:.0f} g water at {water_t:.0f} °C** and dissolve
-   **{yeast:.2f} g {yeast_type.lower()}** in it.
+   **{yeast:.2f} g {yeast_type.lower()}** in it. Optionally add a bit of honey (makes the crust a bit more crunchy).
 2. **Mix the dough.** Gradually add the flour (**{flour_00:.0f} g 00 + {flour_01:.0f} g 01**),
    mixing by hand or in a dough tray. Add **{salt:.1f} g fine sea salt** while mixing and work the
    dough until it is smooth. Aim for a dough temperature of **~{target_t:g} °C**.
